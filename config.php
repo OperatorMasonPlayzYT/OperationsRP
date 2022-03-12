@@ -10,7 +10,7 @@
 
 	/* GENERAL SITE INFORMATION  */
 	// Name of your server/community
-	$name = "Community Name";
+	$name = "Operations Roleplay";
 
 	// Link to the website, with trailing slash
 	$domain = "https://projects.jakehamblin.com/template2/";
@@ -19,7 +19,7 @@
 	$logo = $domain."images/logo.png";
 
 	// Description of your server/community
-	$description = "Description";
+	$description = "Welcome to OperationsRP! OperationsRP Was founded in 2021, And is based off of London Ontario with custom liverys, Uniforms, and more!";
 
 	// Discord Guild ID
 	$guildid = "GUILDID";
@@ -34,7 +34,7 @@
 	$backgroundimg = $domain."images/bg.png";
 
 	// Discord invite link
-	$discord = "discord";
+	$discord = "https://discord.gg/5TNVVTsJMX";
 
 	// Server IP
 	$ip = "sub.yourdomain.tld";
@@ -78,12 +78,12 @@
 	$recaptchasitekey = "#";
 	$webhookurl = "https://discordapp.com/api/webhooks/######";
 	$departments = [
-		"San Andreas State Police",
-		"Blaine County Sheriff's Office",
-		"Los Santos Police Department",
-		"Los Santos Fire Department",
-		"Dispatch",
-		"Civilian",
+		"London Police Department",
+		"Ontario Provincal Police",
+		"London Fire Department",
+		"London Medical Services",
+		"London Communications",
+		"Civilian Department",
 	];
 	/* END APPLICATION PAGE */
 
